@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Johan\\source\\repos\\BirdsSweden300.api\\wwwroot\\images\\blames.jpg",
+      "PackagePath": "staticwebassets\\images\\blames.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Johan\\source\\repos\\BirdsSweden300.api\\wwwroot\\images\\domherre.jpg",
+      "PackagePath": "staticwebassets\\images\\domherre.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Johan\\source\\repos\\BirdsSweden300.api\\wwwroot\\images\\kraka.jpg",
+      "PackagePath": "staticwebassets\\images\\kraka.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Johan\\source\\repos\\BirdsSweden300.api\\wwwroot\\images\\no-bird.png",
+      "PackagePath": "staticwebassets\\images\\no-bird.png"
+    },
+    {
+      "Id": "C:\\Users\\Johan\\source\\repos\\BirdsSweden300.api\\wwwroot\\images\\rodhake.jpg",
+      "PackagePath": "staticwebassets\\images\\rodhake.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Johan\\source\\repos\\BirdsSweden300.api\\wwwroot\\images\\steglits.jpg",
+      "PackagePath": "staticwebassets\\images\\steglits.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Johan\\source\\repos\\BirdsSweden300.api\\wwwroot\\images\\talgoxe.jpg",
+      "PackagePath": "staticwebassets\\images\\talgoxe.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BirdsSweden300.api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BirdsSweden300.api.props",
+      "PackagePath": "build\\BirdsSweden300.api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BirdsSweden300.api.props",
+      "PackagePath": "buildMultiTargeting\\BirdsSweden300.api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BirdsSweden300.api.props",
+      "PackagePath": "buildTransitive\\BirdsSweden300.api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
