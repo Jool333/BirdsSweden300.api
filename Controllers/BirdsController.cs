@@ -33,23 +33,6 @@ namespace BirdsSweden300.api.Controllers
 
             return Ok(result);
         }
-        [HttpGet("hideseen")]
-        public async Task<IActionResult> ListUnSeen()
-        {
-                var result = await _context.Birds
-                .Select(v => new
-                {
-                    Id = v.Id,
-                    Name = v.Name,
-                    Species = v.Species,
-                    ImageUrl = _imageBaseUrl + v.ImageURL ?? "no-bird.png",
-                    Seen = v.Seen
-                })
-                .Where(v=> v.Seen == false)
-                .ToListAsync();
-
-            return Ok(result);
-        }
 
         [HttpGet("{id}")]
         public async Task<IActionResult> GetById(int id)
