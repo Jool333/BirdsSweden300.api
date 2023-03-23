@@ -21,15 +21,16 @@ namespace BirdsSweden300.api.Controllers
         [HttpGet()]
         public async Task<IActionResult> ListAll()
         {
-                var result = await _context.Birds
-                .Select(v => new
-                {
-                    Id = v.Id,
-                    Name = v.Name,
-                    Species = v.Species,
-                    ImageUrl = _imageBaseUrl + v.ImageURL ?? "no-bird.png"
-                })
-                .ToListAsync();
+            var result = await _context.Birds
+            .Select(v => new
+            {
+                Id = v.Id,
+                Name = v.Name,
+                Species = v.Species,
+                ImageUrl = _imageBaseUrl + v.ImageURL ?? "no-bird.png",
+                Seen = v.Seen
+            })
+            .ToListAsync();
 
             return Ok(result);
         }
@@ -116,7 +117,7 @@ namespace BirdsSweden300.api.Controllers
             _context.Birds.Update(birdToUpdate);
             if (await _context.SaveChangesAsync() > 0) return NoContent();
 
-            return StatusCode(500,"Internt server error");
+            return StatusCode(500, "Internt server error");
         }
     }
 }

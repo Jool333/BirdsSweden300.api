@@ -9,8 +9,16 @@
       "PackagePath": "staticwebassets\\images\\domherre.jpg"
     },
     {
+      "Id": "C:\\Users\\Johan\\source\\repos\\BirdsSweden300.api\\wwwroot\\images\\kattuggla.jpg",
+      "PackagePath": "staticwebassets\\images\\kattuggla.jpg"
+    },
+    {
       "Id": "C:\\Users\\Johan\\source\\repos\\BirdsSweden300.api\\wwwroot\\images\\kraka.jpg",
       "PackagePath": "staticwebassets\\images\\kraka.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Johan\\source\\repos\\BirdsSweden300.api\\wwwroot\\images\\landing.jpg",
+      "PackagePath": "staticwebassets\\images\\landing.jpg"
     },
     {
       "Id": "C:\\Users\\Johan\\source\\repos\\BirdsSweden300.api\\wwwroot\\images\\no-bird.png",

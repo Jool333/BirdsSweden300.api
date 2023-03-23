@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "x+b4JNBzL7jLuCWCxLBGQpaCtGWjfUFRrBOYbfoFxoI=",
+  "Hash": "MEzHeRq7774CGUGIFGz8frmwx7ud4x9yjnXwXo4qZIc=",
   "Source": "BirdsSweden300.api",
   "BasePath": "_content/BirdsSweden300.api",
   "Mode": "Default",
@@ -51,6 +51,23 @@
       "OriginalItemSpec": "wwwroot\\images\\domherre.jpg"
     },
     {
+      "Identity": "C:\\Users\\Johan\\source\\repos\\BirdsSweden300.api\\wwwroot\\images\\kattuggla.jpg",
+      "SourceId": "BirdsSweden300.api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Johan\\source\\repos\\BirdsSweden300.api\\wwwroot\\",
+      "BasePath": "_content/BirdsSweden300.api",
+      "RelativePath": "images/kattuggla.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\kattuggla.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Johan\\source\\repos\\BirdsSweden300.api\\wwwroot\\images\\kraka.jpg",
       "SourceId": "BirdsSweden300.api",
       "SourceType": "Discovered",
@@ -66,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\kraka.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Johan\\source\\repos\\BirdsSweden300.api\\wwwroot\\images\\landing.jpg",
+      "SourceId": "BirdsSweden300.api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Johan\\source\\repos\\BirdsSweden300.api\\wwwroot\\",
+      "BasePath": "_content/BirdsSweden300.api",
+      "RelativePath": "images/landing.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\landing.jpg"
     },
     {
       "Identity": "C:\\Users\\Johan\\source\\repos\\BirdsSweden300.api\\wwwroot\\images\\no-bird.png",
